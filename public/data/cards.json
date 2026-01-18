@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sample-2024-topps-update-us123",
+    "player": "Corbin Carroll",
+    "year": 2024,
+    "set": "Topps Update",
+    "cardNumber": "US123",
+    "team": "Diamondbacks",
+    "parallel": "Gold",
+    "numberedTo": 2024,
+    "rookie": true,
+    "grade": "",
+    "notes": "Sample card to verify the gallery works.",
+    "thumbUrl": "https://placehold.co/600x600",
+    "frontUrl": "https://placehold.co/1200x1200",
+    "backUrl": ""
+  }
+]
