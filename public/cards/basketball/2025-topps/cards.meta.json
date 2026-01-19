@@ -2,18 +2,16 @@
   "2025-topps-basketball-ace-bailey-clutch-2025.webp": {
     "player": "Ace Bailey",
     "team": "Utah Jazz",
+    "rc": true,
     "tags": ["Insert"],
     "parallel": "Clutch",
     "numbered": null
-  }
-}
-
-{
+  },
   "2025-topps-kasparas-jakucionis-base-2025.webp": {
     "player": "Kasparas Jakucionis",
-    "rc": "RC"
     "team": "Miami Heat",
-    "tags": "Base",
+    "rc": true,
+    "tags": ["Base"],
     "parallel": null,
     "numbered": null
   }
